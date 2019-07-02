@@ -1,0 +1,2 @@
+# operations-scheduling
+OPERATIONS SCHEDULING | CLASS NOTES | 2019
